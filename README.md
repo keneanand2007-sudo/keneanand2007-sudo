@@ -1,35 +1,456 @@
-<h1 align="center">Hi 👋, I'm Anand kene</h1>
-<h3 align="center">BCA Student | Software Developer | AI/ML Enthusiast & system architect building AI-driven command centers.</h3>
+<!-- ========================================================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keneanand2007-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="keneanand2007-sudo" /> </p>
+<!--                    PROFILE HEADER                         -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keneanand2007-sudo" alt="keneanand2007-sudo" /></a> </p>
+<!-- ========================================================= -->
 
-- 🔭 I’m currently working on [PROJECT AURA](https://github.com/keneanand2007-sudo/PROJECT_AURA)
+<div align="center">
 
-- 🌱 I’m currently learning **Python, AI System Architectures, and advanced Cybersecurity.**
+# 👋 Hey, I'm Anand Kene
 
-- 👯 I’m looking to collaborate on [AI/ML & Software Development Projects](https://github.com/keneanand2007-sudo)
+### `Software Developer` • `AI/ML Enthusiast` • `System Architect`
 
-- 🤝 I’m looking for help with [AI/ML, Advanced Software Development & Open Source](https://github.com/keneanand2007-sudo)
+Building real-world software, exploring intelligent systems,
+and turning ideas into **scalable digital products.**
 
-- 💬 Ask me about **I'm a BCA student and aspiring software developer passionate about building real-world projects. I enjoy working with Python, JavaScript, React, and modern web technologies, while exploring Artificial Intelligence, Machine Learning, and Data Science.**
+<br/>
 
-- 📫 How to reach me **keneanand2007@gmail.com**
+<a href="https://github.com/udaysharmadev">
+  <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
+<a href="https://github.com/udaysharmadev?tab=followers">
+  <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/udaysharmadev">
+  <img src="https://img.shields.io/github/stars/udaysharmadev?label=Stars&style=flat&color=yellow" alt="GitHub Stars"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+
+<!--                     ABOUT ME                              -->
+
+<!-- ========================================================= -->
+
+## 🧠 About Me
+
+```text
+BCA Student
+      ↓
+Software Development
+      ↓
+Artificial Intelligence & Machine Learning
+      ↓
+System Architecture
+      ↓
+Building Real-World Products
+```
+
+I'm a **BCA student and aspiring software engineer** passionate about building
+real-world projects and understanding how modern software systems work.
+
+My interests currently revolve around:
+
+* 💻 Software Development
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 AI System Architecture
+* 🌐 Full-Stack Development
+* 📊 Data Science
+* 🔐 Cybersecurity
+* ⚙️ Developer Tools & Automation
+
+I don't want to just learn technologies.
+
+> **I want to understand systems, build them, break them, improve them, and ship them.**
+
+---
+
+## 🚀 Currently Building
+
+### 🤖 PROJECT AURA
+
+A long-term **AI-powered personal command center / intelligent system architecture project**.
+
+🔗 **Repository:**
+https://github.com/udaysharmadev/PROJECT_AURA
+
+### 🎯 Current Focus
+
+```text
+Python
+   │
+   ├── Artificial Intelligence
+   ├── Machine Learning
+   ├── Data Science
+   ├── AI System Architecture
+   └── Automation
+
+Software Engineering
+   │
+   ├── React
+   ├── TypeScript
+   ├── Full-Stack Development
+   ├── System Design
+   └── Scalable Applications
+```
+
+---
+
+<!-- ========================================================= -->
+
+<!--                  TECH STACK                               -->
+
+<!-- ========================================================= -->
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
 <p align="left">
-<a href="https://linkedin.com/in/anand kene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand kene" height="30" width="40" /></a>
-<a href="https://instagram.com/anand_kene8055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anand_kene8055" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@anandkene8055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anandkene8055" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anand_kene8055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anand_kene8055" height="30" width="40" /></a>
+
+<a href="https://www.python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+
+<a href="https://www.java.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</a>
+
+<a href="https://www.typescriptlang.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+</a>
+
+<a href="https://www.cprogramming.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+</a>
+
+<a href="https://isocpp.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🌐 Web Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keneanand2007-sudo&show_icons=true&locale=en&layout=compact" alt="keneanand2007-sudo" /></p>
+<p align="left">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keneanand2007-sudo&show_icons=true&locale=en" alt="keneanand2007-sudo" /></p>
+<a href="https://react.dev">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keneanand2007-sudo&" alt="keneanand2007-sudo" /></p>
+<a href="https://reactnative.dev">
+<img src="https://reactnative.dev/img/header_logo.svg" width="45" height="45" alt="React Native"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</a>
+
+</p>
+
+### 🤖 AI / Data
+
+<p align="left">
+
+<a href="https://www.tensorflow.org">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow"/>
+</a>
+
+<a href="https://pandas.pydata.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+</a>
+
+</p>
+
+### 🗄️ Databases & Backend
+
+<p align="left">
+
+<a href="https://www.mongodb.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+</a>
+
+<a href="https://www.mysql.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+</a>
+
+<a href="https://www.oracle.com/database/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
+</a>
+
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="left">
+
+<a href="https://git-scm.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</a>
+
+<a href="https://github.com">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="45" height="45" alt="GitHub"/>
+</a>
+
+<a href="https://www.linux.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</a>
+
+<a href="https://aws.amazon.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
+</a>
+
+<a href="https://firebase.google.com">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/>
+</a>
+
+<a href="https://flutter.dev">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45" height="45" alt="Flutter"/>
+</a>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                 GITHUB ANALYTICS                           -->
+
+<!-- ========================================================= -->
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/udaysharmadev">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadev&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+
+</a>
+
+</div>
+
+<br/>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=udaysharmadev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                CONTRIBUTION ACTIVITY                      -->
+
+<!-- ========================================================= -->
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                     TROPHIES                              -->
+
+<!-- ========================================================= -->
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+
+<img src="https://github-profile-trophy.vercel.app/?username=udaysharmadev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+
+</a>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                  PROFILE SUMMARY                           -->
+
+<!-- ========================================================= -->
+
+# 📌 GitHub Profile Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaysharmadev&theme=github_dark" alt="GitHub Profile Details"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                  FEATURED PROJECTS                         -->
+
+<!-- ========================================================= -->
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/udaysharmadev/PROJECT_AURA">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=PROJECT_AURA&theme=tokyonight&hide_border=true" />
+
+</a>
+
+</div>
+
+### 🤖 PROJECT AURA
+
+**Personal AI Command Center / Intelligent System Architecture**
+
+> Building an intelligent digital system designed around AI, automation,
+> memory, developer tooling, and a centralized command interface.
+
+**Focus:** AI • Automation • System Architecture • Developer Tools
+
+---
+
+### 💻 More Projects
+
+| Project                | Description                         |
+| ---------------------- | ----------------------------------- |
+| 🤖 **PROJECT AURA**    | AI-powered personal command center  |
+| 🌐 **Web Projects**    | Modern full-stack applications      |
+| ⚙️ **Developer Tools** | Productivity and automation systems |
+| 🧠 **AI Experiments**  | AI/ML learning and experimentation  |
+
+> 🚧 More projects are continuously being designed and developed.
+
+---
+
+<!-- ========================================================= -->
+
+<!--                  DEVELOPMENT PHILOSOPHY                    -->
+
+<!-- ========================================================= -->
+
+# 🧠 Development Philosophy
+
+```text
+Learn
+  ↓
+Understand
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Ship
+  ↓
+Repeat
+```
+
+### My goal isn't to collect technologies.
+
+**My goal is to become the engineer who can use the right technology
+to solve the right problem.**
+
+---
+
+<!-- ========================================================= -->
+
+<!--                     CURRENT GOALS                          -->
+
+<!-- ========================================================= -->
+
+# 🎯 2026 Goals
+
+* [ ] Strengthen Python
+* [ ] Master Data Structures & Algorithms
+* [ ] Build production-quality applications
+* [ ] Deepen AI/ML fundamentals
+* [ ] Learn advanced system architecture
+* [ ] Build and evolve PROJECT AURA
+* [ ] Contribute to Open Source
+* [ ] Improve GitHub engineering workflow
+* [ ] Build a strong software engineering portfolio
+* [ ] Learn by building real systems
+
+---
+
+<!-- ========================================================= -->
+
+<!--                     CONNECT                                -->
+
+<!-- ========================================================= -->
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/anand-kene">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" alt="LinkedIn"/>
+</a>
+
+<a href="https://instagram.com/anand_kene8055">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" height="35" alt="Instagram"/>
+</a>
+
+<a href="https://www.youtube.com/@anandkene8055">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="35" height="35" alt="YouTube"/>
+</a>
+
+<a href="https://leetcode.com/anand_kene8055">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/leet-code.svg" width="35" height="35" alt="LeetCode"/>
+</a>
+
+</p>
+
+📫 **Email:** `keneanand2007@gmail.com`
+
+---
+
+<!-- ========================================================= -->
+
+<!--                         FOOTER                             -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+### 💭 "Build things that make you better."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
