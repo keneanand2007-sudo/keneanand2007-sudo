@@ -31,20 +31,41 @@ My interests:
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+**Programming Languages**
 
-### Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" />
 
-### Libraries & Tools Used in My Projects
-`React Router` • `Zustand` • `Recharts` • `Leaflet` • `Three.js` • `GSAP` • `Framer Motion` • `Node.js / npm` • `Git & GitHub`
+`Python` • `Java` • `JavaScript` • `TypeScript` • `SQL` • `HTML` • `CSS`
 
-### 📚 Also Learning
-`Python` • `Java` • `C / C++` • `SQL` • `Data Structures & Algorithms` • `AI / ML fundamentals`
+**Web Development**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs" />
+
+`React` • `Next.js` • `Vite` • `Tailwind CSS` • `Node.js`
+
+**Frontend & UI**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,threejs" />
+
+`React` • `Tailwind CSS` • `Framer Motion` • `Three.js` • `React Three Fiber` • `GSAP` • `Lenis`
+
+**AI / Machine Learning / Data**
+
+`Python` • `Artificial Intelligence` • `Machine Learning` • `AI Agents` • `Data Science` • `NumPy` • `Pandas`
+
+> 🚧 Continuously expanding this stack while building practical AI/ML and agentic projects.
+
+**Databases & Backend**
+
+<img src="https://skillicons.dev/icons?i=supabase,nodejs" />
+
+`SQL` • `Supabase` • `Node.js` • `REST APIs` • `tRPC`
+
+**Development Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
+
+`Git` • `GitHub` • `VS Code` • `Vercel` • `pnpm` • `Linux`
 
 ---
 
@@ -96,26 +117,61 @@ Productivity-focused project for student workflow and learning.
 
 ---
 
-## 📊 GitHub Snapshot
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keneanand2007-sudo&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keneanand2007-sudo&layout=compact&theme=radical&hide_border=true" height="180" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keneanand2007-sudo&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keneanand2007-sudo&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=keneanand2007-sudo&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keneanand2007-sudo&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keneanand2007-sudo&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keneanand2007-sudo&theme=github_dark" />
+</p>
+
+---
+
+## 📈 My GitHub Journey
+
+```text
+Student → Learning Programming → Building Projects → Understanding Software
+→ Exploring AI / ML → Designing Systems → Building Real Products → Becoming a Better Engineer
+```
+
+> **The goal is not to become perfect. The goal is to become better with every system I build.**
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 Email: [keneanand2007@gmail.com](mailto:keneanand2007@gmail.com)
-- 💻 GitHub: [@keneanand2007-sudo](https://github.com/keneanand2007-sudo)
+📫 **Email:** [keneanand2007@gmail.com](mailto:keneanand2007@gmail.com)
+💻 **GitHub:** [@keneanand2007-sudo](https://github.com/keneanand2007-sudo)
 
 ---
 
-## 💡 Philosophy
+## 💭 Final Thought
 
-> Learn by building. Improve by iterating. Ship by solving real problems.
+> **"Build things that make you better."**
 
-<div align="center">
-  <i>Always Learning • Always Building</i>
-</div>
+```text
+Code. Learn. Build. Break. Fix. Improve. Ship. Repeat.
+```
+
+<p align="center">
+  <i>Always Learning • Always Building • Always Improving</i>
+</p>
+
+<p align="center">
+  <b>— Anand Kene</b>
+</p>
