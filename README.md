@@ -2,7 +2,7 @@
 
 # Hi, I'm Anand Kene 👋
 
-### BCA Student • Software Developer • AI/ML Enthusiast
+### AI-Enabled Full-Stack Developer • BCA Student • AI/ML Enthusiast
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=keneanand2007-sudo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -18,12 +18,13 @@
 
 ## 🚀 About Me
 
-I'm a BCA student and aspiring software developer from Maharashtra, India. I enjoy learning by building real projects and improving them through iteration, debugging, and refinement.
+I'm a BCA (AI Specialization) student and aspiring software developer from Akola, Maharashtra, India. I work on AI-driven full-stack development, rapid prototyping, and automated workflows, and I enjoy learning by building real projects and improving them through iteration, debugging, and refinement.
 
 My interests:
 
-- 💻 Software and web application development
-- 🤖 AI / ML fundamentals and AI agents
+- 💻 Software and full-stack web development
+- 🤖 AI / ML, LLM integration, RAG and AI agents
+- 👁️ Computer vision
 - 🏗️ System design and application architecture
 - 📊 Dashboards and product-style interfaces
 
@@ -41,35 +42,49 @@ My interests:
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs" />
 
-`React` • `Next.js` • `Vite` • `Tailwind CSS` • `Node.js`
+`React` • `Next.js` • `Vite` • `Tailwind CSS` • `Node.js` • `FastAPI` • `Flask` • `REST APIs`
 
 **Frontend & UI**
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,threejs" />
 
-`React` • `Tailwind CSS` • `Framer Motion` • `Three.js` • `React Three Fiber` • `GSAP` • `Lenis`
+`React` • `Tailwind CSS` • `Framer Motion` • `Three.js` • `React Three Fiber` • `GSAP` • `Zustand` • `Recharts`
 
-**AI / Machine Learning / Data**
+**AI / Machine Learning**
 
-`Python` • `Artificial Intelligence` • `Machine Learning` • `AI Agents` • `Data Science` • `NumPy` • `Pandas`
+`Python` • `LLM Integration` • `Ollama (Qwen Models)` • `RAG` • `Embeddings` • `AI Agents` • `Computer Vision`
 
 > 🚧 Continuously expanding this stack while building practical AI/ML and agentic projects.
 
 **Databases & Backend**
 
-<img src="https://skillicons.dev/icons?i=supabase,nodejs" />
+<img src="https://skillicons.dev/icons?i=sqlite,firebase,nodejs" />
 
-`SQL` • `Supabase` • `Node.js` • `REST APIs` • `tRPC`
+`SQLite` • `Firebase` • `SQL` • `Node.js` • `REST APIs`
 
 **Development Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
 
-`Git` • `GitHub` • `VS Code` • `Vercel` • `pnpm` • `Linux`
+`Git` • `GitHub` • `Docker` • `VS Code` • `Linux` • `Cursor`
 
 ---
 
 ## 📌 Featured Projects
+
+### 🤖 AI-Agent JACKY — Personal AI Assistant
+Local AI assistant built with Ollama (Qwen models) for 100% private, offline execution, with RAG, modular task routing and web automation APIs.
+
+**Tech:** Python, Ollama (Qwen), RAG, Web Automation APIs
+
+---
+
+### 👁️ Jacky-OS — AI & Computer Vision Platform
+Real-time computer vision pipelines for motion tracking, connected to lightweight backend microservices and conversational AI workflows.
+
+**Tech:** Python, Computer Vision, Motion Tracking, REST APIs, Microservices
+
+---
 
 ### [ak-FAMILY](https://github.com/keneanand2007-sudo/ak-FAMILY)
 Family workspace prototype with modules for finance, health, education, documents, places, alerts, permissions, and dashboard analytics.
@@ -86,7 +101,7 @@ Academic monitoring dashboard focused on faculty management, timetable planning,
 ---
 
 ### [master-port](https://github.com/keneanand2007-sudo/master-port)
-Portfolio project focused on personal identity and digital presence.
+Developer portfolio focused on personal identity and digital presence, built for speed and accessibility.
 
 **Tech:** TypeScript, React, Vite, Three.js, Tailwind CSS, GSAP
 
@@ -114,6 +129,31 @@ Productivity-focused project for student workflow and learning.
 | [AK-BROWSER](https://github.com/keneanand2007-sudo/AK-BROWSER) | Experimental browser project |
 | [MyMusicApp](https://github.com/keneanand2007-sudo/MyMusicApp) | Music app project |
 | [my-first-git-project](https://github.com/keneanand2007-sudo/my-first-git-project) | My first Git & GitHub practice project |
+
+---
+
+## 💼 Experience
+
+**Computer Vision & AI Intern** — *MDB Electrosoft Pvt. Ltd.* (2026)
+- Evaluated computer vision models and ran automated dataset pre-processing pipelines for deployment stability
+- Worked with senior engineers on model validation, algorithm optimization, and testing local software tools
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA) — AI Specialization**
+Sant Gadge Baba Amravati University (SGBAU) • Smt. Maherbanu College of Science & Commerce, Akola
+Expected graduation: 2028
+
+---
+
+## 🏆 Achievements & Hackathons
+
+- **CodeX State Level Hackathon (2026):** Secured Rank #7 out of 50+ teams and awarded an 'A' Grade Certificate
+- **CodeRush 2.0 – Intelligence on the Chain (2026):** Participated in the International Blockchain & AI Hackathon
+- **Rising India Hackathon 1.0 (2026):** Participated in a 24-hour hackathon at Nagpur Institute of Technology
+- **SOCIAOTHON 2026 – Social Impact Hackathon:** Represented team in the social impact hackathon organized by NSS Unit at YCCE
 
 ---
 
@@ -157,6 +197,7 @@ Student → Learning Programming → Building Projects → Understanding Softwar
 
 📫 **Email:** [keneanand2007@gmail.com](mailto:keneanand2007@gmail.com)
 💻 **GitHub:** [@keneanand2007-sudo](https://github.com/keneanand2007-sudo)
+🔗 **LinkedIn:** [Anand Kene](https://www.linkedin.com/in/anand-kene-3a60972b1/)
 
 ---
 
