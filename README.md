@@ -1,72 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:0D1117,50:39FF9C,100:0D1117" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:0B7A48,100:39FF9C&text=Anand%20Kene&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI-Enabled%20Full-Stack%20Developer&descAlignY=60&descSize=18" alt="header" width="100%" />
 
-<table>
-<tr>
-<td valign="middle" width="60%" align="left">
+<a href="https://github.com/keneanand2007-sudo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=39FF9C&center=true&vCenter=true&width=700&lines=BCA+Student+%7C+AI+Specialization;Building+AI+Agents+%26+Full-Stack+Apps;Computer+Vision+%26+LLM+Enthusiast;Learning+by+Building.+Shipping+by+Iterating." alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=600&color=39FF9C&width=560&height=50&lines=Anand+Kene;AI-Enabled+Developer;Full-Stack+%7C+AI+Agents" alt="Anand Kene" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=keneanand2007-sudo&label=Profile%20Views&color=0B7A48&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/keneanand2007-sudo?label=Followers&style=for-the-badge&color=0B7A48&labelColor=0D1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/keneanand2007-sudo?label=Stars&style=for-the-badge&color=0B7A48&labelColor=0D1117" alt="Stars" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=900&color=8B949E&width=560&lines=BCA+Student+%E2%80%A2+AI+Specialization;LLM+%2F+RAG+%E2%80%A2+Computer+Vision+%E2%80%A2+Web+Apps;Learning+by+building.+Shipping+by+iterating." alt="tagline" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/PYTHON-0D1117?style=flat-square&logo=python&logoColor=39FF9C" alt="Python" />
-<img src="https://img.shields.io/badge/REACT-0D1117?style=flat-square&logo=react&logoColor=39FF9C" alt="React" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-0D1117?style=flat-square&logo=typescript&logoColor=39FF9C" alt="TypeScript" />
-<img src="https://img.shields.io/badge/FASTAPI-0D1117?style=flat-square&logo=fastapi&logoColor=39FF9C" alt="FastAPI" />
-<img src="https://img.shields.io/badge/OLLAMA-0D1117?style=flat-square&logo=ollama&logoColor=39FF9C" alt="Ollama" />
-<img src="https://img.shields.io/badge/AI_AGENTS-0D1117?style=flat-square&logoColor=39FF9C" alt="AI Agents" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/anand-kene-3a60972b1/"><img src="https://img.shields.io/badge/LINKEDIN-39FF9C?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" /></a>
-<a href="mailto:keneanand2007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-39FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
-<a href="https://github.com/keneanand2007-sudo"><img src="https://img.shields.io/badge/GITHUB-39FF9C?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=keneanand2007-sudo&label=Profile%20Views&color=39FF9C&labelColor=0D1117&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/keneanand2007-sudo?label=Followers&style=flat-square&color=39FF9C&labelColor=0D1117" alt="Followers" />
-<img src="https://img.shields.io/github/stars/keneanand2007-sudo?label=Stars&style=flat-square&color=39FF9C&labelColor=0D1117" alt="Stars" />
-
-</td>
-<td valign="middle" width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/keneanand2007-sudo/keneanand2007-sudo/main/anand-profile.png" alt="Anand Kene" width="320" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:0D1117,50:39FF9C,100:0D1117" width="100%" alt="" />
+<p>
+  <a href="https://www.linkedin.com/in/anand-kene-3a60972b1/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF9C" alt="LinkedIn" /></a>
+  <a href="mailto:keneanand2007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF9C" alt="Email" /></a>
+  <a href="https://github.com/keneanand2007-sudo"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF9C" alt="GitHub" /></a>
+</p>
 
 </div>
 
-<br/>
+---
+
+<table>
+<tr>
+<td valign="top" width="58%">
 
 ## 👨‍💻 About Me
 
 ```text
-┌──(anand㉿terminal)-[~]
-└─$ whoami
-   anand_kene
+> whoami
+anand_kene
 
-└─$ cat role.txt
-   AI-Enabled Full-Stack Developer | BCA Student (AI Specialization)
+> role
+AI-Enabled Full-Stack Developer | BCA Student (AI Specialization)
 
-└─$ cat location.txt
-   Akola, Maharashtra, India
+> location
+Akola, Maharashtra, India
 
-└─$ cat focus.txt
-   AI Agents • LLM / RAG • Computer Vision • Full-Stack Web
+> focus
+AI Agents • LLM / RAG • Computer Vision • Full-Stack Web
 
-└─$ cat status.txt
-   Open to internships & fresher opportunities
+> status
+Open to internships & fresher opportunities
 ```
 
 I build practical web apps and AI systems, and I learn by shipping real projects and improving them through iteration, debugging, and refinement.
+
+- 💻 Full-stack web development
+- 🤖 LLM integration, RAG and AI agents
+- 👁️ Computer vision
+- 🏗️ System design and application architecture
+
+</td>
+<td align="center" valign="middle" width="42%">
+
+<img src="https://raw.githubusercontent.com/keneanand2007-sudo/keneanand2007-sudo/main/anand-profile.png" alt="Anand Kene" width="300" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -247,12 +240,6 @@ Sant Gadge Baba Amravati University (SGBAU) • Smt. Maherbanu College of Scienc
 ---
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/anand-kene-3a60972b1/"><img src="https://img.shields.io/badge/LinkedIn-Anand_Kene-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF9C" alt="LinkedIn" /></a>
-<a href="mailto:keneanand2007@gmail.com"><img src="https://img.shields.io/badge/Email-keneanand2007@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF9C" alt="Email" /></a>
-<a href="https://github.com/keneanand2007-sudo"><img src="https://img.shields.io/badge/GitHub-keneanand2007--sudo-0D1117?style=for-the-badge&logo=github&logoColor=39FF9C" alt="GitHub" /></a>
-
-<br/><br/>
 
 <i>"Build things that make you better."</i>
 
