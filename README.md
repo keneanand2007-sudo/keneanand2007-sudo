@@ -12,6 +12,12 @@
 
 > Building practical web apps, learning intelligent systems, and turning ideas into useful digital products.
 
+<p>
+  <a href="https://www.linkedin.com/in/anand-kene-3a60972b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:keneanand2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/keneanand2007-sudo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
 </div>
 
 ---
@@ -32,41 +38,55 @@ My interests:
 
 ## 🛠️ Tech Stack
 
-**Programming Languages**
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" />
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-`Python` • `Java` • `JavaScript` • `TypeScript` • `SQL` • `HTML` • `CSS`
+### Frontend & UI
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
-**Web Development**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs" />
-
-`React` • `Next.js` • `Vite` • `Tailwind CSS` • `Node.js` • `FastAPI` • `Flask` • `REST APIs`
-
-**Frontend & UI**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,threejs" />
-
-`React` • `Tailwind CSS` • `Framer Motion` • `Three.js` • `React Three Fiber` • `GSAP` • `Zustand` • `Recharts`
-
-**AI / Machine Learning**
-
-`Python` • `LLM Integration` • `Ollama (Qwen Models)` • `RAG` • `Embeddings` • `AI Agents` • `Computer Vision`
+### AI / Machine Learning
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_(Qwen)-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-0A66C2?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6E40C9?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 > 🚧 Continuously expanding this stack while building practical AI/ML and agentic projects.
 
-**Databases & Backend**
+### Databases & Backend
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=sqlite,firebase,nodejs" />
-
-`SQLite` • `Firebase` • `SQL` • `Node.js` • `REST APIs`
-
-**Development Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
-
-`Git` • `GitHub` • `Docker` • `VS Code` • `Linux` • `Cursor`
+### Development Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
@@ -160,24 +180,21 @@ Expected graduation: 2028
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keneanand2007-sudo&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keneanand2007-sudo&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=keneanand2007-sudo&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=keneanand2007-sudo&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keneanand2007-sudo&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keneanand2007-sudo&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keneanand2007-sudo&theme=github_dark" alt="Repos per Language" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keneanand2007-sudo&theme=github_dark" alt="Most Commit Language" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keneanand2007-sudo&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keneanand2007-sudo&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keneanand2007-sudo&theme=github_dark" alt="GitHub Stats" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keneanand2007-sudo&theme=github_dark&utcOffset=5.5" alt="Productive Time" height="200" />
 </p>
 
 ---
