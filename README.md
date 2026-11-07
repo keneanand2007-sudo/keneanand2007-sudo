@@ -55,8 +55,7 @@ I build practical web apps and AI systems, and I learn by shipping real projects
 </td>
 <td align="center" valign="middle" width="42%">
 
-<img src="https://raw.githubusercontent.com/keneanand2007-sudo/keneanand2007-sudo/main/anand-profile.png" alt="Anand Kene" width="300" />
-
+<img src="https://github.com/user-attachments/assets/bfd20584-3c0b-45c5-b40f-201b26d4a158" alt="Anand Kene" width="300" />
 </td>
 </tr>
 </table>
@@ -246,3 +245,5 @@ Sant Gadge Baba Amravati University (SGBAU) • Smt. Maherbanu College of Scienc
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:39FF9C,50:0B7A48,100:0D1117&section=footer" width="100%" alt="" />
 
 </div>
+
+
